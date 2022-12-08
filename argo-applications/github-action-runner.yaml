@@ -13,7 +13,7 @@ spec:
     targetRevision: HEAD
     helm:
       values: | 
-        base_domain: "dummy"
+        cluster-6vx6d.6vx6d.sandbox979.opentlc.com
   destination:
     server: https://kubernetes.default.svc
     namespace: actions-runner-system

@@ -13,7 +13,7 @@ spec:
     path: backstage/backstage
     helm:
       values: | 
-        base_domain: "dummy"
+        cluster-6vx6d.6vx6d.sandbox979.opentlc.com
         # postgresql:
         #   securityContext:
         #     fsGroup: dummy 
